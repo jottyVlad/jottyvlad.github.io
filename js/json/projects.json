@@ -4,15 +4,15 @@
     "description": "Асинхронный фреймворк для написания Навыков для Яндекс.Алисы"
   },
   {
-    "name": "Polya | Chat Manager",
-    "description": "Чат-менеджер для мессенджера Telegram. In development"
-  },
-  {
     "name": "morgenpost (contributing)",
     "description": "Утренний пост с важной информацией (и не очень) прямо в мессенджер"
   },
   {
     "name": "MDB",
     "description": "Игровой бот для социальной сети ВКонтакте"
+  },
+  {
+    "name": "JupiSIEM",
+    "description": "SIEM-система для домашнего использования all in one container\nPython Django, ClickHouse, PostrgeSQL, Cursor"
   }
 ]
